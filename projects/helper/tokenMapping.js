@@ -79,7 +79,7 @@ const fixBalancesTokens = {
     // Binance-Peg DOGE
     "0x6cdfda79787caa4ad1a95456095bedc95abd2d75": {
       coingeckoId: 'dogecoin',
-      decimals: 18
+      decimals: 8
     },
 
     // Binance-Peg SOL
@@ -91,13 +91,13 @@ const fixBalancesTokens = {
     // Binance-Peg USDC (bUSDC)
     "0x9b4805dc867c279a96f3ed0745c8bc15153a22e6": {
       coingeckoId: 'usd-coin',
-      decimals: 6
+      decimals: 18
     },
 
     // Binance-Peg USDT (bUSDT)
     "0x0ab978880d3bf13e448f4f773acd817e83bddb0e": {
       coingeckoId: 'tether',
-      decimals: 6
+      decimals: 18
     }
 
   },
